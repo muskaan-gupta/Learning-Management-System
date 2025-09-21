@@ -6,11 +6,6 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Subscription Management](#subscription-management)
-- [Prerequisites](#prerequisites)
-- [Contributing](#contributing)
-- [Further-Support](#further-support)
 
 ## Overview
 
@@ -42,4 +37,5 @@ Before running this project locally, ensure you have the following installed:
 - [MongoDB](https://www.mongodb.com/) (v4.x or higher)
 - [Cloudinary](https://cloudinary.com/) account and API credentials
 - [Razorpay](https://razorpay.com/) account and API credentials
+
 

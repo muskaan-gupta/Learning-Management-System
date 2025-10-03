@@ -9,7 +9,7 @@
 - [Getting Started](#getting-started)
 - [Demo Data](#demo-data)
 - [Contributing](#contributing)
-- [Support](#support)
+
 
 ## Overview
 The **Learning Management System (LMS)** is a full-stack web application for managing and delivering educational content. It supports user and admin roles, course creation, enrollment, subscription management, and analytics. The platform is built with React, Tailwind CSS, Node.js, Express, and MongoDB, and integrates with Cloudinary for media and Razorpay for payments.
@@ -36,11 +36,14 @@ The **Learning Management System (LMS)** is a full-stack web application for man
 - **Other:** JWT, Nodemailer, Multer, React Hot Toast, React Icons
 
 ## Screenshots
-> Add your screenshots here (e.g. Home, Courses, Admin Dashboard)
+---
+**Home Page:**
+<img width="1818" height="917" alt="image" src="https://github.com/user-attachments/assets/d80b218a-af74-4cc9-8acf-ae70399b6ef8" />
 
-![Home Page](./screenshots/home.png)
-![Courses Page](./screenshots/courses.png)
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+---
+**Courses Page:**
+<img width="1785" height="922" alt="image" src="https://github.com/user-attachments/assets/bc40535b-3eaa-4917-8abe-df8abff881ac" />
+
 
 ## Getting Started
 
@@ -84,11 +87,11 @@ The **Learning Management System (LMS)** is a full-stack web application for man
 
 ## Demo Data
 - The frontend includes sample courses and admin dashboard data for demo purposes.
-- Example admin login: `admin@example.com` / `Admin@123`
-- Example user login: `john@example.com` / `User@123`
+- Example user login: `muskan7512@gmail.com` / `muskan8303#`
 
 ## Contributing
 Contributions are welcome! Please fork the repo and submit a pull request.
+
 
 
 
